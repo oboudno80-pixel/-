@@ -1,0 +1,6 @@
+{
+  "name": "Telegram",
+  "description": "Telegram Liquid Glass Messenger with phone registration, hidden phone privacy, username search, and AI assistants for text, photo generation (Imagen 3), and video creation (Veo & Sora).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
